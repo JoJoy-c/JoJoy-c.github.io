@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://jojoy-c.com
+url: http://jojoy-c.com
 date_format: "ordinal"
 title: 学习笔记
 subtitle: "记录个人学习轨迹"
