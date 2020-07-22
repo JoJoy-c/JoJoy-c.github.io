@@ -123,14 +123,14 @@ gitment:
     owner: JoJoy-c
     repo: blog-comments
     oauth:
-        client_id: 0e54e616eb7fb0a00634
-        client_secret: 5143e993aea41f37a4f5f979483dab70aa543dd4
+        client_id: f7fd0d9d50a6efc86808
+        client_secret: 5a7287eda596e420844fd15149ff29e304982696
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: JoJoy-c
     repo: blog-comments
-    clientID: 0e54e616eb7fb0a00634
-    clientSecret: 5143e993aea41f37a4f5f979483dab70aa543dd4
+    clientID: f7fd0d9d50a6efc86808
+    clientSecret: 5a7287eda596e420844fd15149ff29e304982696
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
